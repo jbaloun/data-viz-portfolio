@@ -2,7 +2,7 @@
 data viz portfolio of Joey Baloun
 
 3D web scene - esri ArcGIS Online
-  Third place winner esri Map Gallery 2018 - 3D mapping category
+  Third place winner esri Map Gallery 2018 - 3D mapping category  
   https://mapgallery.esri.com/map-detail/5b05dab674204e43b4e462bd
 
 Dashboard with drilldown to detailed report
