@@ -33,7 +33,7 @@ Location Intelligence application 2 - Carto
   Time series visualization with data discovery paradigm
 
 Operations Dashboard - esri ArcGIS Online  
-  Summarized by category, data discovery paradigm can show related location points on the map
+  Summarized by category, these groupings can be clicked to reveal related location points on the map
 
 Salesforce extract and join - Data Migrator ETL  
-  Data viz isn't possible without data wrangling; here is an ETL flow that extracts from records from Salesforce
+  Data viz isn't possible without data wrangling; here is an ETL flow that extracts records from Salesforce
