@@ -44,3 +44,4 @@ Operations Dashboard - esri ArcGIS Online
 
 Salesforce extract and join - Data Migrator ETL  
   Data viz isn't possible without data wrangling; here is an ETL flow that extracts records from Salesforce
+![DataMigrator ETL - Salesforce extract](https://github.com/jbaloun/data-viz-portfolio/blob/master/Salesforce%20extract%20and%20join%20-%20Data%20Migrator%20ETL.png)  
