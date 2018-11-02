@@ -20,6 +20,7 @@ First responders operations viz - esri ArcGIS Online
 
 IoT sensors for gunshot detection viz - esri ArcGIS Online  
   "Marketechture" viz can be used to explain abstract use cases, as part of the sales cycle
+![IoT sensor gunshot detection](https://github.com/jbaloun/data-viz-portfolio/blob/master/IoT%20sensors%20for%20gunshot%20detection%20viz%20-%20esri%20ArcGIS%20Online.png)
 
 LA neighborhood map with POIs - esri ArcGIS Online  
   Custom LA neighborhood map with points of interest, commercial density, mass transit overlays
