@@ -32,6 +32,7 @@ Location analytics spawns dashboard from tool tip - WebFOCUS
 
 Location Intelligence application - Carto  
   Clicking a chart dimension shows areas of the map that are related to the selected category
+![Location analytics in Carto](https://github.com/jbaloun/data-viz-portfolio/blob/master/Location%20Intelligence%20application%20-%20Carto.png)  
 
 Location Intelligence application 2 - Carto  
   Time series visualization with data discovery paradigm
