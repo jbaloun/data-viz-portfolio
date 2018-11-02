@@ -8,6 +8,7 @@ data viz portfolio of Joey Baloun
 
 Data discovery dashboard - Tableau  
   Data discovery paradigm is now dominant; clicking a dimensional value broadcasts as a filter to other chart objects on the dashboard
+  ![data discover dashboard Tableau](https://github.com/jbaloun/data-viz-portfolio/blob/master/data%20discovery%20dashboard%20-%20Tableau.png)
 
 data viz at scale - Grafana  
   Specialized viz tools are required for high volume streaming data; here is Grafana on Cassandra
