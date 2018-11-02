@@ -24,6 +24,7 @@ IoT sensors for gunshot detection viz - esri ArcGIS Online
 
 LA neighborhood map with POIs - esri ArcGIS Online  
   Custom LA neighborhood map with points of interest, commercial density, mass transit overlays
+![LA neighbourhood map](https://github.com/jbaloun/data-viz-portfolio/blob/master/LA%20neighborhood%20map%20with%20POIs%20-%20esri%20ArcGIS%20Online.png)  
 
 Location analytics spawns dashboard from tool tip - WebFOCUS  
   A map is used to find an area of interest, then a detailed dashboard is spawned, pre-filtered for selected map region
