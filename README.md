@@ -12,6 +12,7 @@ Data discovery dashboard - Tableau
 
 data viz at scale - Grafana  
   Specialized viz tools are required for high volume streaming data; here is Grafana on Cassandra
+  ![data viz at scale Grafana](https://github.com/jbaloun/data-viz-portfolio/blob/master/data%20viz%20at%20scale%20-%20Grafana.png)
   
 First responders operations viz - esri ArcGIS Online  
   Operations dashboards pop critical information in front of decision makers in real-time
