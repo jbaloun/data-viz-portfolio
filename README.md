@@ -6,10 +6,6 @@ data viz portfolio of Joey Baloun
   https://mapgallery.esri.com/map-detail/5b05dab674204e43b4e462bd
   ![esri 3D Web Scene](https://github.com/jbaloun/data-viz-portfolio/blob/master/3D%20web%20scene%20-%20esri%20ArcGIS%20Online.png)
 
-Dashboard with drilldown to detailed report  
-  Drill-down paradigm was very popular in enterprise Business Intelligence platforms.  You start at a summary level, and click for details
-  ![Dashboard with drill-down detail](https://github.com/jbaloun/data-viz-portfolio/blob/master/Dashboard%20with%20drilldown%20to%20detailed%20report.png)
-
 Data discovery dashboard - Tableau  
   Data discovery paradigm is now dominant; clicking a dimensional value broadcasts as a filter to other chart objects on the dashboard
 
