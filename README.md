@@ -28,6 +28,7 @@ LA neighborhood map with POIs - esri ArcGIS Online
 
 Location analytics spawns dashboard from tool tip - WebFOCUS  
   A map is used to find an area of interest, then a detailed dashboard is spawned, pre-filtered for selected map region
+![Location analytics spawns dashboard](https://github.com/jbaloun/data-viz-portfolio/blob/master/Location%20analytics%20spawns%20dashboard%20from%20tool%20tip%20-%20WebFOCUS.png)  
 
 Location Intelligence application - Carto  
   Clicking a chart dimension shows areas of the map that are related to the selected category
