@@ -16,6 +16,7 @@ data viz at scale - Grafana
   
 First responders operations viz - esri ArcGIS Online  
   Operations dashboards pop critical information in front of decision makers in real-time
+![first responders operational viz](https://github.com/jbaloun/data-viz-portfolio/blob/master/first%20responders%20operations%20viz%20-%20esri%20ArcGIS%20Online.png)
 
 IoT sensors for gunshot detection viz - esri ArcGIS Online  
   "Marketechture" viz can be used to explain abstract use cases, as part of the sales cycle
