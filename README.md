@@ -40,6 +40,7 @@ Location Intelligence application 2 - Carto
 
 Operations Dashboard - esri ArcGIS Online  
   Summarized by category, these groupings can be clicked to reveal related location points on the map
+![Operations Dashboard - esri](https://github.com/jbaloun/data-viz-portfolio/blob/master/Operations%20Dashboard%20-%20esri%20ArcGIS%20Online.png)  
 
 Salesforce extract and join - Data Migrator ETL  
   Data viz isn't possible without data wrangling; here is an ETL flow that extracts records from Salesforce
