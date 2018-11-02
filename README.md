@@ -36,6 +36,7 @@ Location Intelligence application - Carto
 
 Location Intelligence application 2 - Carto  
   Time series visualization with data discovery paradigm
+![Location analytics in Carto with data discovery](https://github.com/jbaloun/data-viz-portfolio/blob/master/Location%20Intelligence%20application%202%20-%20Carto.png)  
 
 Operations Dashboard - esri ArcGIS Online  
   Summarized by category, these groupings can be clicked to reveal related location points on the map
