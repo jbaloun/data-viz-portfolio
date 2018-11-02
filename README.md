@@ -4,6 +4,7 @@ data viz portfolio of Joey Baloun
 3D web scene - esri ArcGIS Online
   Third place winner esri Map Gallery 2018 - 3D mapping category  
   https://mapgallery.esri.com/map-detail/5b05dab674204e43b4e462bd
+  !esri 3D Web Scene(https://github.com/jbaloun/data-viz-portfolio/blob/master/3D%20web%20scene%20-%20esri%20ArcGIS%20Online.png)
 
 Dashboard with drilldown to detailed report  
   Drill-down paradigm was very popular in enterprise Business Intelligence platforms.  You start at a summary level, and click for details
