@@ -1,6 +1,10 @@
 # data-viz-portfolio
 data viz portfolio of Joey Baloun
 
+Tower Crane Under Load / Worker Risk - time series animation
+  Blue dots are workers outside the risk zone of a tower crane.  Green dots are workers in the risk zone, while the crane is not under load.  Red dots are workers in the risk zone while the crane is under load
+  ![Demo](https://user-images.githubusercontent.com/6933692/51010437-291a7700-1509-11e9-9d1e-5572f65b34ae.gif)
+
 3D web scene - esri ArcGIS Online
   Third place winner esri Map Gallery 2018 - 3D mapping category  
   https://mapgallery.esri.com/map-detail/5b05dab674204e43b4e462bd
